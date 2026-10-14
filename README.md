@@ -58,6 +58,7 @@ Mi trabajo se centra principalmente en **Python, Odoo, PostgreSQL, Docker y Flut
         de una manera visual y sencilla.
       </p>
       <p><code>Python</code> <code>Networking</code> <code>Developer Tools</code></p>
+      <p>✅ Proyecto público y disponible en GitHub.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🐳 odooenv</h3>
