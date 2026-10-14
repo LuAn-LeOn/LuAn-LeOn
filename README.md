@@ -39,5 +39,5 @@ Desarrollo soluciones empresariales, herramientas para desarrolladores y product
 
 ## 📫 Contacto
 
-- **LinkedIn:** [Tu LinkedIn aquí](https://www.linkedin.com/)
+- **LinkedIn:** [Luis Angel De Los Santos León](https://www.linkedin.com/in/luis-angel-de-los-santos-le%C3%B3n-2a6295266/)
 - **Email:** ldelossantosleon@gmail.com
