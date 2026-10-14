@@ -66,7 +66,7 @@ Mi trabajo se centra principalmente en **Python, Odoo, PostgreSQL, Docker y Flut
         Docker y PostgreSQL.
       </p>
       <p><code>Python</code> <code>Odoo</code> <code>Docker</code> <code>PostgreSQL</code></p>
-      <p>🚧 Proyecto actualmente en desarrollo.</p>
+      <p>🚧 Proyecto actualmente en desarrollo. Próximamente disponible en GitHub.</p>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Mi trabajo se centra principalmente en **Python, Odoo, PostgreSQL, Docker y Flut
         servicios, clientes y administración de citas.
       </p>
       <p><code>Django</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code></p>
-      <p>🚧 Proyecto actualmente en desarrollo.</p>
+      <p>🚧 Proyecto actualmente en desarrollo. Próximamente disponible en GitHub.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Clinic Management</h3>
@@ -86,6 +86,7 @@ Mi trabajo se centra principalmente en **Python, Odoo, PostgreSQL, Docker y Flut
         consultas médicas, recetas y procesos administrativos.
       </p>
       <p><code>Odoo</code> <code>Python</code> <code>PostgreSQL</code></p>
+      <p>🔒 Repositorio privado.</p>
     </td>
   </tr>
 </table>
