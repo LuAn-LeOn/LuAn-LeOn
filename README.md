@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Luis León Banner" />
+</p>
 
-<!--
-**LuAn-LeOn/LuAn-LeOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Luis León 👋
 
-Here are some ideas to get you started:
+### Software Engineer · Odoo/Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo soluciones empresariales, herramientas para desarrolladores y productos digitales utilizando Python, Odoo, PostgreSQL, Docker y Flutter.
+
+---
+
+## 🚀 Sobre mí
+
+- Desarrollador enfocado en **Odoo, Python y Backend**
+- Experiencia en **PostgreSQL, Docker, Linux y APIs**
+- Interés en productos digitales, automatización y herramientas de desarrollo
+- Actualmente construyendo soluciones y proyectos propios
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Python, Odoo, Java
+- **Database:** PostgreSQL, MongoDB
+- **DevOps / Tools:** Docker, Git, Linux
+- **Frontend / Mobile:** Flutter
+
+---
+
+## 📌 Proyectos destacados
+
+- **PortScope** — herramienta para análisis de puertos y procesos
+- **odooenv** — utilidad para administrar entornos Odoo
+- **Sitenda** — plataforma para agenda y negocios
+- **Healthcare / Clinic Management** — personalización y flujo funcional sobre Odoo
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [Tu LinkedIn aquí](https://www.linkedin.com/)
+- **Email:** ldelossantosleon@gmail.com
