@@ -80,7 +80,7 @@ Mi trabajo se centra principalmente en **Python, Odoo, PostgreSQL, Docker y Flut
       <p>🚧 Proyecto actualmente en desarrollo.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/LuAn-LeOn/clinic_management-Odoo19">Clinic Management</a></h3>
+      <h3>🏥 Clinic Management</h3>
       <p>
         Solución de gestión clínica desarrollada sobre Odoo para administrar pacientes,
         consultas médicas, recetas y procesos administrativos.
