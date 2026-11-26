@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Luis León Banner" width="100%" />
+  <img src="./assets/arquitectura-viva.gif" width="100%" alt="Luis León — Software Engineer. Animación de pulsos azules conectando API, Python, PostgreSQL, Odoo y Docker." />
 </p>
 
 ## 👋 Sobre mí
