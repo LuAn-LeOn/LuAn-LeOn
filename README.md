@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arquitectura-viva.gif" width="100%" alt="Luis León — Software Engineer. Animación de pulsos azules conectando API, Python, PostgreSQL, Odoo y Docker." />
+  <img src="./assets/leon-digital-stack-luis-leon.gif" width="100%" alt="Luis León — Software Engineer" />
 </p>
 
 ## 👋 Sobre mí
