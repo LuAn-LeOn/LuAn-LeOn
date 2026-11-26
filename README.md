@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/leon-digital-stack-luis-leon.gif" width="100%" alt="Luis León — Software Engineer" />
+  <img src="./assets/leon-digital-stack-hd-v2.gif" width="100%" alt="Luis León — Software Engineer" />
 </p>
 
 ## 👋 Sobre mí
